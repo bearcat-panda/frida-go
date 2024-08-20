@@ -1,4 +1,4 @@
-module github.com/frida/frida-go
+module github.com/bearcat-panda/frida-go
 
 go 1.19
 
